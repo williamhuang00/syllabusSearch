@@ -73,6 +73,10 @@ namespace RubricSearch
 
         private void lstbFolder_SelectedIndexChanged(object sender, EventArgs e)
         {
+            if (lstbFolder.Items.Count == 0)
+            {
+                return;
+            }
             string[] keyWords = txtKeyWord.Text.ToLower().Split(','); //make it all lowercase and split by comma
             string filePath = lstbFolder.Items[lstbFolder.SelectedIndex].ToString();
             ArrayList lines = new ArrayList();

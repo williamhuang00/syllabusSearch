@@ -88,11 +88,11 @@
             // 
             // txtDirectory
             // 
-            this.txtDirectory.Location = new System.Drawing.Point(15, 92);
+            this.txtDirectory.Location = new System.Drawing.Point(15, 97);
             this.txtDirectory.Name = "txtDirectory";
-            this.txtDirectory.Size = new System.Drawing.Size(146, 23);
+            this.txtDirectory.Size = new System.Drawing.Size(214, 23);
             this.txtDirectory.TabIndex = 6;
-            this.txtDirectory.Text = "Add Directory of the files";
+            this.txtDirectory.Text = "Select Folder Location For Text Files";
             this.txtDirectory.UseVisualStyleBackColor = true;
             this.txtDirectory.Click += new System.EventHandler(this.txtDirectory_Click);
             // 
