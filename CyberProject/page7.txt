@@ -1,0 +1,246 @@
+2020
+ 
+Knowledge Units
+ 
+ 
+ 
+8
+ 
+ 
+Foundational
+-
+ 
+Cybersecurity Principles 
+(CSP)
+ 
+ 
+The
+ 
+intent
+ 
+of
+ 
+the
+ 
+Cybersecurity
+ 
+Principles Knowledge
+ 
+Unit
+ 
+is
+ 
+to
+ 
+provide
+ 
+students
+ 
+with
+ 
+basic
+ 
+security
+ 
+design
+ 
+fundamentals
+ 
+that
+ 
+help
+ 
+create
+ 
+systems
+ 
+that
+ 
+are
+ 
+worthy
+ 
+of
+ 
+being
+ 
+trusted.
+ 
+ 
+Outcomes
+ 
+ 
+ 
+ 
+To complete this KU, students should be able to:
+ 
+1.
+ 
+Define the principles of cybersecurity.
+ 
+2.
+ 
+Describe why each principle is important to 
+security and how it enables the development of security 
+mechanisms that can implement desired security policies.
+ 
+3.
+ 
+Analyze common security failures and identify specific design principles that have been violated.
+ 
+4.
+ 
+Given a specific scenario, identify the desig
+n principles involved or needed.
+ 
+5.
+ 
+Understand the interaction between security and system usability and the importance for 
+minimizing the effects of security mechanisms.
+ 
+Topics
+ 
+ 
+ 
+ 
+T
+o
+ 
+complete
+ 
+this
+ 
+KU,
+ 
+all
+ 
+Topics
+ 
+and
+ 
+sub
+-
+Topics
+ 
+must
+ 
+be
+ 
+completed:
+ 
+ 
+1.
+ 
+Principles
+ 
+a.
+ 
+Separation (of domains/duties)
+ 
+b.
+ 
+Isolation
+ 
+c.
+ 
+Encapsulation
+ 
+d.
+ 
+Modularity
+ 
+e.
+ 
+Simplicity of design (Economy of Mechanism)
+ 
+f.
+ 
+Minimization of implementation (Least Common Mechanism)
+ 
+g.
+ 
+Open Design
+ 
+h.
+ 
+Complete Mediation
+ 
+i.
+ 
+Layering (Defense in depth)
+ 
+j.
+ 
+Least Privilege
+ 
+k.
+ 
+Fail Safe 
+Defaults / Fail Secure
+ 
+l.
+ 
+Least Astonishment (Psychological Acceptability)
+ 
+m.
+ 
+Minimize Trust Surface (Reluctance to trust)
+ 
+n.
+ 
+Usability
+ 
+o.
+ 
+Trust relationships
+ 
+ 
+Vocabulary
+ 
+ 
+Packet,
+ 
+risk,
+ 
+secure
+ 
+system,
+ 
+trust,
+ 
+trusted
+ 
+system,
+ 
+trustworthy,
+ 
+vulnerability
+ 
+ 
+NICE Framework
+ 
+Categories
+ 
+ 
+ 
+ 
+Securely Provision (SP)
+ 
+ 
+Operate and Maintain (OM)
+ 
+Oversee and Govern (OV)
+ 
+Protect and Defend (PR)
+ 
+Analyze (AN)
+ 
+ 
+ 
+Collect and Operate (CO)
+ 
+Investigate (IN)
+ 
+ 
+ 
+ 
